@@ -1,0 +1,3 @@
+function test(a: int)
+ return 3+a*2
+end

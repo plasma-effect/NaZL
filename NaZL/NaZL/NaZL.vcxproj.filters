@@ -41,4 +41,9 @@
       <Filter>ヘッダー ファイル</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\x64\Release\test1.txt">
+      <Filter>リソース ファイル</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
